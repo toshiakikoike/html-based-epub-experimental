@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" xml:lang="ja" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">ロウソクの科学</dc:title>
+    <dc:creator id="creator1">マイケル・ファラデー／翻訳: 山形浩生</dc:creator>
+    <meta refines="#creator1" property="role" scheme="marc:relators" id="role1">aut</meta>
+    <meta refines="#creator1" property="display-seq">1</meta>
+    <meta property="dcterms:modified">2025-04-24T02:50:17Z</meta>
+    <meta name="cover" content="my-cover-image" />
+    <meta property="ibooks:respect-image-size-class">gaiji</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <dc:language>ja</dc:language>
+    <dc:identifier id="pub-id">urn:uuid:596D6F2E-20B6-11F0-AB88-8A6321F49715</dc:identifier>
+    <dc:date>2025-04-24T02:46:40Z</dc:date>
+  </metadata>
+  <manifest>
+    <item id="TOC" href="toc.html" properties="nav" media-type="text/html" />
+    <item id="XHTML0000" href="text/book_0000.html" properties="svg" media-type="text/html" />
+    <item id="XHTML0001" href="text/book_0001.html" media-type="text/html" />
+    <item id="XHTML0002" href="text/book_0002.html" media-type="text/html" />
+    <item id="XHTML0003" href="text/book_0003.html" media-type="text/html" />
+    <item id="XHTML0004" href="text/book_0004.html" media-type="text/html" />
+    <item id="XHTML0005" href="text/book_0005.html" media-type="text/html" />
+    <item id="XHTML0006" href="text/book_0006.html" media-type="text/html" />
+    <item id="XHTML0007" href="text/book_0007.html" media-type="text/html" />
+    <item id="XHTML0008" href="text/book_0008.html" media-type="text/html" />
+    <item id="XHTML0009" href="text/book_0009.html" media-type="text/html" />
+    <item id="XHTML0010" href="text/book_0010.html" media-type="text/html" />
+    <item id="my-cover-image" href="images/cover.jpg" properties="cover-image" media-type="image/jpeg" />
+    <item id="IMG0001" href="images/image1.png" media-type="image/png" />
+    <item id="IMG0002" href="images/image2.png" media-type="image/png" />
+    <item id="IMG0003" href="images/image3.png" media-type="image/png" />
+    <item id="IMG0004" href="images/image4.png" media-type="image/png" />
+    <item id="CSS1" href="styles/ebook_common.css" media-type="text/css" />
+    <item id="CSS2" href="styles/ebook_style.css" media-type="text/css" />
+    <item id="CSS3" href="styles/ebook_style_v.css" media-type="text/css" />
+    <item id="CSS4" href="styles/ebook_style_h.css" media-type="text/css" />
+    <item href="text/creativecommons.html" id="CREATIVECOMMONS" media-type="text/html" />
+    <item id="IMGCC" href="images/by-nc.png" media-type="image/png" />
+  </manifest>
+  <spine page-progression-direction="rtl" >
+    <itemref idref="XHTML0000" properties="rendition:layout-pre-paginated rendition:spread-none rendition:page-spread-center" />
+    <itemref idref="XHTML0001" />
+    <itemref idref="XHTML0002" />
+    <itemref idref="XHTML0003" />
+    <itemref idref="XHTML0004" />
+    <itemref idref="XHTML0005" />
+    <itemref idref="XHTML0006" />
+    <itemref idref="XHTML0007" />
+    <itemref idref="XHTML0008" />
+    <itemref idref="XHTML0009" />
+    <itemref idref="XHTML0010" />
+    <itemref idref="CREATIVECOMMONS" />
+  </spine>
+</package>

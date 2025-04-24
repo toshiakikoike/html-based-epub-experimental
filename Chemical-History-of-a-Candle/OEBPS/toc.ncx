@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="urn:uuid:596D6F2E-20B6-11F0-AB88-8A6321F49715" />
+        <meta name="dtb:depth" content="1" />
+        <meta name="dtb:totalPageCount" content="0" />
+        <meta name="dtb:maxPageNumber" content="0" />
+    </head>
+    <docTitle>
+        <text>ロウソクの科学</text>
+    </docTitle>
+    <docAuthor>
+        <text>マイケル・ファラデー／翻訳: 山形浩生</text>
+    </docAuthor>
+    <navMap>
+        <navPoint playOrder="1" id="navPoint-1">
+            <navLabel>
+                <text>ロウソクの科学</text>
+            </navLabel>
+            <content src="text/book_0000.xhtml" />
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel>
+                    <text>第1章　ロウソク：炎はどこからきているんだろうか。</text>
+                </navLabel>
+                <content src="text/book_0003.xhtml#toc-001" />
+            </navPoint>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>第2章　炎の輝き——燃焼に必要な空気——水の生成</text>
+                </navLabel>
+                <content src="text/book_0004.xhtml#toc-002" />
+            </navPoint>
+            <navPoint playOrder="4" id="navPoint-4">
+                <navLabel>
+                    <text>第3章　燃焼の産物——水の性質——化合物——水素</text>
+                </navLabel>
+                <content src="text/book_0005.xhtml#toc-003" />
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>第4章　ロウソクの中の水素：燃えて水に——水の残りの部分：酸素</text>
+                </navLabel>
+                <content src="text/book_0006.xhtml#toc-004" />
+            </navPoint>
+            <navPoint playOrder="6" id="navPoint-6">
+                <navLabel>
+                    <text>第5章　空中の酸素——大気の性質——二酸化炭素</text>
+                </navLabel>
+                <content src="text/book_0007.xhtml#toc-005" />
+            </navPoint>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>第6章　呼吸はなぜ燃えるロウソクと似ているか。</text>
+                </navLabel>
+                <content src="text/book_0008.xhtml#toc-006" />
+            </navPoint>
+            <navPoint playOrder="8" id="navPoint-8">
+                <navLabel>
+                    <text>あとがき</text>
+                </navLabel>
+                <content src="text/book_0009.xhtml#toc-007" />
+                <navPoint id="navPoint-9" playOrder="9">
+                    <navLabel>
+                        <text>わたしのこと</text>
+                    </navLabel>
+                    <content src="text/book_0009.xhtml#toc-008" />
+                </navPoint>
+                <navPoint playOrder="10" id="navPoint-10">
+                    <navLabel>
+                        <text>この本について</text>
+                    </navLabel>
+                    <content src="text/book_0009.xhtml#toc-009" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-11" playOrder="11">
+                <navLabel>
+                    <text>訳者コメント</text>
+                </navLabel>
+                <content src="text/book_0010.xhtml#toc-010" />
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>
