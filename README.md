@@ -13,10 +13,10 @@ This is a provisional sample of an HTML-based EPUB (in Japanese), created for te
   * The OPF file itself remains in XML format (not XHTML), so no format change was made.
 * XHTML
   * Changed file extensions from .xhtml to .html.
-  * Removed <?xml version="1.0" encoding="utf-8"?>.
-  * Changed <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ja"> to <html lang="ja">.
-  * Replaced all /> with >.
-  * Changed epub:type to epub-type.
+  * Removed <code><?xml version="1.0" encoding="utf-8"?></code>.
+  * Changed <code><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ja"></code> to <code><html lang="ja"></code>.
+  * Replaced all <code>/></code> with <code>></code>.
+  * Changed <code>epub:type</code> to <code>epub-type</code>.
 
 ## EPUBCheck v5.2.1 Results
 ~~~
