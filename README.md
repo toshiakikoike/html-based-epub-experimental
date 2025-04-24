@@ -13,9 +13,9 @@ This is a provisional sample of an HTML-based EPUB (in Japanese), created for te
   * The OPF file itself remains in XML format (not XHTML), so no format change was made.
 * XHTML
   * Changed file extensions from .xhtml to .html.
-  * Removed <code><?xml version="1.0" encoding="utf-8"?></code>.
-  * Changed <code><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ja"></code> to <code><html lang="ja"></code>.
-  * Replaced all <code>/></code> with <code>></code>.
+  * Removed <code>&lt;?xml version="1.0" encoding="utf-8"?&gt;</code>.
+  * Changed <code>&lt;html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ja"&gt;</code> to <code>&lt;html lang="ja"&gt;</code>.
+  * Replaced all <code>/&gt;</code> with <code>&gt;</code>.
   * Changed <code>epub:type</code> to <code>epub-type</code>.
 
 ## EPUBCheck v5.2.1 Results
